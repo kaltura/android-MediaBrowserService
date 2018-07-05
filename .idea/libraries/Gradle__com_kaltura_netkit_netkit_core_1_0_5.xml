@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.kaltura.netkit:netkit-core-1.0.5">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/netkit-core-1.0.5.aar/b46962453fd2067eb0fa99d9370c97e5/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/netkit-core-1.0.5.aar/b46962453fd2067eb0fa99d9370c97e5/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.kaltura.netkit/netkit-core/1.0.5/9bfb9976d76b629bcefc9dc91e199285dcf5ca9b/netkit-core-1.0.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

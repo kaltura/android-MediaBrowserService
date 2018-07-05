@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.kaltura.playkit:playkit-3.4.5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/playkit-3.4.5.aar/57c5c3ffb8efc61616ba4422cbf7776f/jars/libs/YouboraLib-5.3.10.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/playkit-3.4.5.aar/57c5c3ffb8efc61616ba4422cbf7776f/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/playkit-3.4.5.aar/57c5c3ffb8efc61616ba4422cbf7776f/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.kaltura.playkit/playkit/3.4.5/168150cd913e717ecc6929fe5eaed27bfd0b1923/playkit-3.4.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
